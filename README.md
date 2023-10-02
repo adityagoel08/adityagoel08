@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto: dtygll@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="aditya-goel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya-goel" target="blank"><img align="center" src="https://github.com/adityagoel08/logos/blob/main/linkedin.svg" alt="aditya-goel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-goel" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="aditya-goel" height="30" width="40" /></a>
 <a href="https://kaggle.com/adityagoel08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adityagoel08" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aditya_goel08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditya_goel08" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@dtygll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dtygll" height="30" width="40" /></a>
