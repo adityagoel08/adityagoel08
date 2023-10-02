@@ -4,7 +4,7 @@
 <img align="right" alt="funCoding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
-- 🔭 I’m currently working on **various NLP and Deep Learning projects**
+- 🔭 I’m currently working on **various Generative AI, NLP and Deep Learning projects**
 
 - 🌱 I’m currently learning **Cloud computing and Knowledge graphs**
 
