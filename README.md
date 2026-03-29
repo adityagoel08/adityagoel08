@@ -1,6 +1,6 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/climate-change-facts-header-wide.gif)](https://github.com/adityagoel08/)
 <h1 align="center">Hi 👋, I'm Adi Goel</h1>
-<h3 align="center">An AI/DL/NLP/CV Enthusiast, A Data Scientist and A Senior Consultant from India.</h3>
+<h3 align="center">An Gen AI/DL/NLP/CV Enthusiast, An AI Product Manager and A Data Science Consultant from India.</h3>
 <img align="right" alt="funCoding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
