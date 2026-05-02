@@ -22,7 +22,7 @@
 <a href="mailto: dtygll@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="aditya-goel" height="40" /></a> <a href="https://linkedin.com/in/aditya-goel" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="aditya-goel" height="40" /></a> <a href="https://calendly.com/adi_goel/30min" target="blank"><img align="center" src="https://www.freelogovectors.net/wp-content/uploads/2023/05/calendly-logo-freelogovectors.net_.png" alt="aditya-goel" height="40" /></a> <a href="https://kaggle.com/adityagoel08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" alt="adityagoel08" height="40" /></a> <a href="https://www.hackerrank.com/aditya_goel08" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="aditya_goel08" height="40" /></a> <a href="https://www.hackerearth.com/@dtygll" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@dtygll" height="40" /></a>
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, currentColor, transparent); opacity: 0.3;">
+<hr style="border: none; height: 0.1px; background: linear-gradient(to right, transparent, currentColor, transparent); opacity: 0.3;">
 
 <h3 align="left">Languages and Tools:</h3>
 
