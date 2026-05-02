@@ -1,9 +1,15 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/climate-change-facts-header-wide.gif)](https://github.com/adityagoel08/)
-<h1 align="center">Hi 👋, I'm Adi Goel</h1>
-<h3 align="center">An Gen AI/DL/NLP/CV Enthusiast, An AI Product Manager and A Data Science Consultant from India.</h3>
+<h1 align="center">Hi 👋, I'm Aditya Goel (Adi)</h1>
+<h3 align="center">An AI Product Manager, GenAI Engineer (Agentic Systems & RAG), and A Data Science Consultant from India.</h3>
 <img align="right" alt="funCoding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
+### 🧠 What I Do
 
+- 🔭 Building **production-grade GenAI systems** (Agentic workflows, RAG pipelines, enterprise copilots)
+- 🧩 Designing **end-to-end AI products** from ideation → deployment → governance
+- ⚙️ Scaling **LLM applications** across banking, risk, and analytics domains
+- 🏗️ Bridging **AI engineering + product strategy** for real-world impact
+- 
 - 🔭 I’m currently working on **various Generative AI, NLP and Deep Learning projects**
 
 - 🌱 I’m currently learning **Cloud computing and Knowledge graphs**
