@@ -22,6 +22,8 @@
 <a href="mailto: dtygll@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="aditya-goel" height="40" /></a> <a href="https://linkedin.com/in/aditya-goel" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="aditya-goel" height="40" /></a> <a href="https://calendly.com/adi_goel/30min" target="blank"><img align="center" src="https://www.freelogovectors.net/wp-content/uploads/2023/05/calendly-logo-freelogovectors.net_.png" alt="aditya-goel" height="40" /></a> <a href="https://kaggle.com/adityagoel08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" alt="adityagoel08" height="40" /></a> <a href="https://www.hackerrank.com/aditya_goel08" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="aditya_goel08" height="40" /></a> <a href="https://www.hackerearth.com/@dtygll" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@dtygll" height="40" /></a>
 </p>
 
+<hr style="border: none; height: 1px; background: currentColor; opacity: 0.25;">
+
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Agentic AI & RAG:</h4>
@@ -29,7 +31,7 @@
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://aiinnovativesolutions.com/wp-content/uploads/2024/11/LangChain-Official-Brand-Logo.png" alt="langchain" height="40"/> </a> <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://images.contentstack.io/v3/assets/bltac01ee6daa3a1e14/blt45d9c451c9a70269/6542d10b8b3f8e001b7aeead/img_blog_image_inline.png?width=1024&disable=upscale&auto=webp" alt="llamaindex" height="40"/> </a> <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/pinecone-database4602.logowik.com.webp" alt="pinecone" height="40"/> </a> <a href="https://weaviate.io/" target="_blank" rel="noreferrer"> <img src="https://www.wpsolr.com/wp-content/uploads/2023/05/weaviate-logo-3d.png" alt="weaviate" height="40"/> </a>
 </p>
 
-<hr>
+<hr style="border: none; height: 1px; background: currentColor; opacity: 0.12;">
 
 <h4 align="left">Product Management & Strategy:</h4>
 <p align="left">
