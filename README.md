@@ -31,7 +31,7 @@
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://aiinnovativesolutions.com/wp-content/uploads/2024/11/LangChain-Official-Brand-Logo.png" alt="langchain" height="40"/> </a> <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://images.contentstack.io/v3/assets/bltac01ee6daa3a1e14/blt45d9c451c9a70269/6542d10b8b3f8e001b7aeead/img_blog_image_inline.png?width=1024&disable=upscale&auto=webp" alt="llamaindex" height="40"/> </a> <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/pinecone-database4602.logowik.com.webp" alt="pinecone" height="40"/> </a> <a href="https://weaviate.io/" target="_blank" rel="noreferrer"> <img src="https://www.wpsolr.com/wp-content/uploads/2023/05/weaviate-logo-3d.png" alt="weaviate" height="40"/> </a>
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, currentColor, transparent); opacity: 0.15;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1x1_transparent_pixel.png/1024px-1x1_transparent_pixel.png" height="10" />
 
 <h4 align="left">Product Management & Strategy:</h4>
 <p align="left">
