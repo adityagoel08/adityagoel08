@@ -26,12 +26,12 @@
 
 <h4 align="left">Agentic AI & RAG:</h4>
 <p align="left">
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://aiinnovativesolutions.com/wp-content/uploads/2024/11/LangChain-Official-Brand-Logo.png" alt="langchain" height="40"/> </a> <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://images.contentstack.io/v3/assets/bltac01ee6daa3a1e14/blt45d9c451c9a70269/6542d10b8b3f8e001b7aeead/img_blog_image_inline.png?width=1024&disable=upscale&auto=webp" alt="llamaindex" height="40"/> </a> <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pineconeio/pineconeio-icon.svg" alt="pinecone" height="40"/> </a> <a href="https://weaviate.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/weaviate/weaviate/master/assets/weaviate-logo.png" alt="weaviate" height="40"/> </a> <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="langsmith" height="40"/> </a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://aiinnovativesolutions.com/wp-content/uploads/2024/11/LangChain-Official-Brand-Logo.png" alt="langchain" height="40"/> </a> <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://images.contentstack.io/v3/assets/bltac01ee6daa3a1e14/blt45d9c451c9a70269/6542d10b8b3f8e001b7aeead/img_blog_image_inline.png?width=1024&disable=upscale&auto=webp" alt="llamaindex" height="40"/> </a> <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/pinecone-database4602.logowik.com.webp" alt="pinecone" height="40"/> </a> <a href="https://weaviate.io/" target="_blank" rel="noreferrer"> <img src="https://www.wpsolr.com/wp-content/uploads/2023/05/weaviate-logo-3d.png" alt="weaviate" height="40"/> </a>
 </p>
 
 <h4 align="left">Product Management & Strategy:</h4>
 <p align="left">
-<a href="https://miro.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/miro/miro-icon.svg" alt="miro" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> </a> <a href="https://www.amplitude.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg" alt="amplitude" height="40"/> </a> <a href="https://www.mixpanel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mixpanel/mixpanel-icon.svg" alt="mixpanel" height="40"/> </a> <a href="https://www.productboard.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/productboard/productboard-icon.svg" alt="productboard" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> </a> <a href="https://www.amplitude.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg" alt="amplitude" height="40"/> </a> <a href="https://www.mixpanel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mixpanel/mixpanel-icon.svg" alt="mixpanel" height="40"/> </a> <a href="https://www.productboard.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/productboard/productboard-icon.svg" alt="productboard" height="40"/> </a>
 </p>
 
 <h4 align="left">Scripting and Data Science Packages:</h4>
@@ -51,7 +51,7 @@
 
 <h4 align="left">Cloud:</h4>
 <p align="left"> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" height="40"/> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" height="40"/> </a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2699/PNG/512/google_cloud_logo_icon_170066.png" alt="azure" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="40"/> </a> 
  </p>
 
