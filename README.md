@@ -1,7 +1,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/climate-change-facts-header-wide.gif)](https://github.com/adityagoel08/)
 <h1 align="center">Hi 👋, I'm Aditya Goel (Adi)</h1>
-<h3 align="center">Assistant Director @ HSBC | AI Engineer (Agentic & RAG) | AI Product Manager</h3>
-<p align="center"><b>Driving AI innovation with nearly a decade of experience in building and managing intelligent products.</b></p>
+<h3 align="center">I am an AI Engineer (Agentic & RAG), AI Product Manager and Data Science Consultant</h3>
+<p align="center"><b>Driving AI innovation with nearly a decade of experience in building and managing intelligent products and AI solutions.</b></p>
 <img align="right" alt="funCoding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityagoel08/](https://github.com/adityagoel08/)
 
-- 💬 Ask me about **AI, ML, Deep Learning, Computer Vision and NLP**
+- 💬 Ask me about **AI Products, ML, Deep Learning, Computer Vision and NLP**
 
 - 📫 How to reach me **dtygll@gmail.com**
 
@@ -31,7 +31,7 @@
 
 <h4 align="left">Product Management & Strategy:</h4>
 <p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> </a> <a href="https://www.amplitude.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg" alt="amplitude" height="40"/> </a> <a href="https://www.mixpanel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mixpanel/mixpanel-icon.svg" alt="mixpanel" height="40"/> </a> <a href="https://www.productboard.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/productboard/productboard-icon.svg" alt="productboard" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> </a> <a href="https://www.amplitude.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg" alt="amplitude" height="40"/> </a> <a href="https://www.mixpanel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Mixpanel_full_logo_%E2%80%93_purple.png" alt="mixpanel" height="40"/> </a> <a href="https://www.productboard.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Productboard-logo-clean.png" alt="productboard" height="40"/> </a>
 </p>
 
 <h4 align="left">Scripting and Data Science Packages:</h4>
