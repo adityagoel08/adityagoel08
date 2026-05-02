@@ -1,18 +1,13 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/climate-change-facts-header-wide.gif)](https://github.com/adityagoel08/)
-<h1 align="center">Hi 👋, I'm Aditya Goel (Adi)</h1>
-<h3 align="center">An AI Product Manager, GenAI Engineer (Agentic Systems & RAG), and A Data Science Consultant from India.</h3>
+<h1 align="center">Hi 👋, I'm Adi Goel</h1>
+<h3 align="center">Assistant Director @ HSBC | AI Engineer (Agentic & RAG) | AI Product Manager</h3>
+<p align="center"><b>Driving AI innovation with nearly a decade of experience in building and managing intelligent products.</b></p>
 <img align="right" alt="funCoding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-### 🧠 What I Do
 
-- 🔭 Building **production-grade GenAI systems** (Agentic workflows, RAG pipelines, enterprise copilots)
-- 🧩 Designing **end-to-end AI products** from ideation → deployment → governance
-- ⚙️ Scaling **LLM applications** across banking, risk, and analytics domains
-- 🏗️ Bridging **AI engineering + product strategy** for real-world impact
-- 
-- 🔭 I’m currently working on **various Generative AI, NLP and Deep Learning projects**
+- 🔭 I’m currently working on **Agentic AI Workflows, Advanced RAG Architectures, and AI-driven Financial Solutions**
 
-- 🌱 I’m currently learning **Cloud computing and Knowledge graphs**
+- 🌱 I’m currently learning **LLM Observability, Evaluation Frameworks, and Multi-Agent Orchestration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityagoel08/](https://github.com/adityagoel08/)
 
@@ -32,6 +27,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<h4 align="left">Agentic AI & RAG:</h4>
+<p align="left">
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" alt="langchain" width="40" height="40"/> </a>
+<a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/run-llama/llama_index/main/docs/_static/logo.png" alt="llamaindex" width="40" height="40"/> </a>
+<a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pineconeio/pineconeio-icon.svg" alt="pinecone" width="40" height="40"/> </a>
+<a href="https://weaviate.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/weaviate/weaviate/master/assets/weaviate-logo.png" alt="weaviate" width="40" height="40"/> </a>
+<a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer"> <img src="https://www.langchain.com/hubfs/LangSmith%20Logo.svg" alt="langsmith" width="40" height="40"/> </a>
+</p>
 
 <h4 align="left">Scripting and Data Science Packages:</h4>
 <p align="left"> 
