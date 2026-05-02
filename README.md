@@ -34,7 +34,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> </a> <a href="https://www.amplitude.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg" alt="amplitude" height="40"/> </a> <a href="https://www.mixpanel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Mixpanel_full_logo_%E2%80%93_purple.png" alt="mixpanel" height="40"/> </a> <a href="https://www.productboard.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Productboard-logo-clean.png" alt="productboard" height="40"/> </a>
 </p>
 
-<br> 
 
 <h4 align="left">Cloud:</h4>
 <p align="left"> 
@@ -79,7 +78,6 @@
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="googlecolab" height="40"/> </a>
 </p>
 
-<br> 
 
 <h4 align="left">Design Tools:</h4>
 <p align="left"> 
